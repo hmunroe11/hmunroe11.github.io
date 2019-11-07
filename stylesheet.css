@@ -1,0 +1,26 @@
+h1 {
+	outline-color: darkblue;
+	outline-style: double;
+	outline-width: medium;
+	color: midnightblue;
+	text-align: center;
+	}
+h2 {
+	color: midnightblue;
+	text-align: center;
+	}
+p {
+	color: lightskyblue;
+	font-size: 20px;
+	text-align: center;
+	}
+body {
+	background: dimgrey; 
+	font-size: 20px; 
+	font-family: "sans-serif";
+	}
+img {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;	
+  	}
